@@ -14,7 +14,7 @@
 
 To get started with **Quntal**, clone the repository and run the Python script:
 
-#ONLY WINDOWS IS SUPPORTED AT THE MOMENT. EVERY RELEASE AFTER 1.2 WILL HAVE MAC & LINUX SUPPORT.
+# ONLY WINDOWS IS SUPPORTED AT THE MOMENT. EVERY RELEASE AFTER 1.2 WILL HAVE MAC & LINUX SUPPORT.
 
 ```bash
 git clone https://github.com/yourusername/quntal.git
