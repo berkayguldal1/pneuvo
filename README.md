@@ -1,3 +1,5 @@
+## This project will be rewritten from scratch for Quntal 2 Biscuit. Our goal is making you happy, and if we dont, neither will you.
+
 # Quntal
 
 **Quntal** is a interactive terminal simulation environment designed to simulate a Linux-like experience with a custom Python shell. It includes features like user authentication, packages, system info, and an extensible framework for running Python-based scripts.
