@@ -20,7 +20,7 @@ all coming soon...</sub></sup>
 ## Features
 
 - **User Authentication**: Allows users to create accounts and securely log in using a username and password stored in `login.dll`.
-- **Package Simulation**: Users can install and with the `pakage install` command.
+- **Packages**: Users can install and with the `pakage install` command.
 - **Python Script Execution**: Execute Python scripts directly from the terminal by typing their name (as long as they exist in the main folder).
 - **Customizable Shell**: The default shell is `yash`, but you can extend the functionality by adding more commands.
   
