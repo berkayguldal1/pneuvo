@@ -1,2 +1,1 @@
-printLogo()
-print("This is Quntal!")
+print("test done!")
