@@ -10,11 +10,11 @@
 
 ![qantal__2_-removebg-preview__1_-removebg-preview](https://github.com/user-attachments/assets/3badda3e-f5c2-408e-bb2a-bab482b03a53)
 
-<sup><sub>Quntal 2 Biscuit
-Quntal 3 Morale
-Quntal 4 Sundae
-Quntal 5 Class
-Quntal 6 Wave
+<sup><sub>Quntal 2 Biscuit,
+Quntal 3 Morale,
+Quntal 4 Sundae,
+Quntal 5 Class,
+Quntal 6 Wave;
 all coming soon...</sub></sup>
 
 ## Features
