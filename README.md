@@ -14,4 +14,3 @@
 To get started with **Quntal**, download and run the executable.
 
 # ONLY WINDOWS IS SUPPORTED AT THE MOMENT. EVERY RELEASE AFTER 1.2 WILL HAVE MAC & LINUX SUPPORT.
-
