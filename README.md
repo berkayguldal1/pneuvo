@@ -19,12 +19,12 @@ So if my input is "pakage install neofetch" then the parameters.dll (they work a
 
 ## Package Manager
 
-The default package manager is pakage.(Fun fact:Pakage was a pakage manager made by me!)
+The default package manager is pakage. (Fun fact : Pakage was a pakage manager made by me!)
 Its located in fs/apps/pakage.py and the install command works as this:
 
     1. Read parameters.dll to get the function and pakage name.
     2. If the functions "install", download the same package from Github. (berkayguldal1/quntal/pakage/*.py)
-    3. Move that file to "fs/pakage/*.py"
+    3. Move that file to "fs/apps/*.py"
     
 There is no repository support yet. If you made an app or ported one, Just open a issue about it and i will add it.
 -------
