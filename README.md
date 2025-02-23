@@ -1,36 +1,27 @@
-## This project will be rewritten from scratch for Quntal 2 Biscuit. Our goal is making you happy, and if we dont, neither will you.
+# Quntal will be renamed to pneuvo.
 
-# Quntal
+## Pneuvo
+Pneuvo is a terminal simulator which lets people do WHATEVER they could want. (as long as there is an app but at that point you make one)
+Pneuvo also has app support, dev and user accounts (dev is kinda like root and user is user)
 
-**Quntal** is a interactive terminal simulation environment designed to simulate a Linux-like experience with a custom Python shell. It includes features like user authentication, packages, system info, and an extensible framework for running Python-based scripts.
+Pneuvo is not a "oh i write neofetch and its fake neofetch" kind of experience.
+Pneuvo is a platform for using/making apps and will try its best to do anything right.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Apps
 
-## Versions
+Apps are just ".py" files, but they support taking parameters. Pnuevo has its apps on the "fs/apps" and "fs/pakage" folders.
+They can be read from either but we recommend putting your own apps into "fs/apps".
+Parameters work by splitting the spaces and putting them into newlines.
+So if my input is "pakage install neofetch" then the parameters.dll (they work as .txt files) will be "Pakage\nInstall\nNeofetch" 
 
-*Say hi to **Quntal 1 Serene!*** (Supported 2025-2026)
+## Package Manager
 
-![qantal__2_-removebg-preview__1_-removebg-preview](https://github.com/user-attachments/assets/3badda3e-f5c2-408e-bb2a-bab482b03a53)
+The default package manager is pakage.(Fun fact:Pakage was a pakage manager made by me!)
+Its located in fs/apps/pakage.py and the install command works as this:
 
-<sup><sub>Quntal 2 Biscuit,
-Quntal 3 Morale,
-Quntal 4 Sundae,
-Quntal 5 Class,
-Quntal 6 Wave;
-all coming soon...</sub></sup>
-
-## Features
-
-- **User Authentication**: Allows users to create accounts and securely log in using a username and password stored in `login.dll`.
-- **Packages**: Users can install and with the `pakage install` command.
-- **Python Script Execution**: Execute Python scripts directly from the terminal by typing their name (as long as they exist in the main folder).
-- **Customizable Shell**: The default shell is `yash`, but you can extend the functionality by adding more commands.
-  
-## Installation
-
-To get started with **Quntal**, download and run the executable.
-
-# ONLY WINDOWS IS SUPPORTED AT THE MOMENT. EVERY RELEASE AFTER 1.2 WILL HAVE MAC & LINUX SUPPORT.
-
-
-<sup><sub>Quntal is the continuation of arckonsole, and arcfetch.</sub></sup>
+    1. Read parameters.dll to get the function and pakage name.
+    2. If the functions "install", download the same package from Github. (berkayguldal1/quntal/pakage/*.py)
+    3. Move that file to "fs/pakage/*.py"
+    
+There is no repository support yet. If you made an app or ported one, Just open a issue about it and i will add it.
+    
