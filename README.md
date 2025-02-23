@@ -1,6 +1,7 @@
                                                                         
 ![pneuvo_logo](https://github.com/user-attachments/assets/794023f6-3e66-4d87-acb8-bf35a49f8617)
-            
+
+Pronounced as ***pɯnyvo***
 
 ## Pneuvo
 Pneuvo is a terminal simulator which lets people do WHATEVER they could want. (as long as there is an app but at that point you make one)
