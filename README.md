@@ -1,4 +1,6 @@
-# Quntal will be renamed to pneuvo.
+                                                                        
+![pneuvo_logo](https://github.com/user-attachments/assets/794023f6-3e66-4d87-acb8-bf35a49f8617)
+            
 
 ## Pneuvo
 Pneuvo is a terminal simulator which lets people do WHATEVER they could want. (as long as there is an app but at that point you make one)
@@ -24,4 +26,6 @@ Its located in fs/apps/pakage.py and the install command works as this:
     3. Move that file to "fs/pakage/*.py"
     
 There is no repository support yet. If you made an app or ported one, Just open a issue about it and i will add it.
+-------
+<sup><sub>pneuvo is a continuation of quntal which is continuation of nest which is the continuation of lush which is the continuation of arckonsole</sub></sup>
     
